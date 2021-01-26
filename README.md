@@ -118,7 +118,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Asana: Your work manager](https://play.google.com/store/apps/details?id=com.asana.app) - Asana is the work manager for teams. 
 - [monday.com - Work Management & Team Collaboration](https://play.google.com/store/apps/details?id=com.monday.monday&hl=en&gl=US) - A work management and productivity app designed to help your team.
 - [Smartsheet: Project, Team, Task, & Work Management](https://play.google.com/store/apps/details?id=com.smartsheet.android&hl=en&gl=US) - Maximize the productivity of your team on the go.
-- [Confluence Cloud](https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core) - Jot down notes, share ideas, and stay notified about what's happening on your team while you're on the go with the Confluence Cloud mobile app. 
+- [Confluence Cloud](https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core) - Jot down notes, share ideas, and stay notified about whats happening on your team while youre on the go with the Confluence Cloud mobile app. 
 - [Quip: Docs, Chat, Spreadsheets](https://play.google.com/store/apps/details?id=com.quip.quip) - Quip is a simple place for work teams to create living documents.
 - [Miro](https://play.google.com/store/apps/details?id=com.realtimeboard) - The whiteboard for online collaboration.
 - [Jamboard](https://play.google.com/store/apps/details?id=com.google.android.apps.jam) - Jamboard is G Suite’s digital whiteboard that offers a rich collaborative experience for teams and classrooms.
@@ -167,7 +167,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Microsoft To Do: List, Task & Reminder](https://play.google.com/store/apps/details?id=com.microsoft.todos) - Microsoft To Do is a task management app to help you stay organized and manage your day-to-day.
 - [Squid - Take Notes & Markup PDFs](https://play.google.com/store/apps/details?id=com.steadfastinnovation.android.projectpapyrus) - Take handwritten notes naturally on your Android tablet, phone, or Chromebook supporting Android apps!
 - [vFlat - Your mobile book scanner](https://play.google.com/store/apps/details?id=com.voyagerx.scanner) - vFlat scans your books quickly and beautifully, flattening the curved pages with the help of deep learning.
-- [WorkFlowy - Notes, Lists, Outlines](https://play.google.com/store/apps/details?id=com.workflowy.android) - WorkFlowy is the world's best tool for taking notes and making lists.
+- [WorkFlowy - Notes, Lists, Outlines](https://play.google.com/store/apps/details?id=com.workflowy.android) - WorkFlowy is the worlds best tool for taking notes and making lists.
 - XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) - Mind Mapping. 
 - [Orbit Mind](https://play.google.com/store/apps/details?id=com.pseudogames.dachr.mindmap) - Mind Mapping.
 
@@ -187,7 +187,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Stack](https://play.google.com/store/apps/details?id=com.ketchapp.stack) - Stack up the blocks as high as you can!
 - [lichess • Free Online Chess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp) - Built for the love of chess, this app is open source and free for all.
 - [Exponential Idle](https://play.google.com/store/apps/details?id=com.conicgames.exponentialidle) - Play Exponential Idle, a math-inspired incremental game.
-- [Alto's Odyssey](https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey) - Just beyond the horizon sits a majestic desert, vast and unexplored.
+- [Alto s Odyssey](https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey) - Just beyond the horizon sits a majestic desert, vast and unexplored.
 - [Fluid Simulation Free](https://play.google.com/store/apps/details?id=games.paveldogreat.fluidsimfree) - Play with fluids with a touch of your fingers.
 
 
