@@ -82,7 +82,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Learn C Programming](https://play.google.com/store/apps/details?id=c.programming) - Build your programming skills in the C Programming language.
 - [Learn Ethical Hacking - Ethical Hacking Tutorials](https://play.google.com/store/apps/details?id=hacking.learnhacking.learn.hack.ethicalhacking.programming.coding) - Learn Ethical Hacking - Ethical Hacking Tutorials.
 - [Learn C++](https://play.google.com/store/apps/details?id=cpp.programming) - Build your programming skills in the C++ Programming language. 
-- [Learn Javascript](https://play.google.com/store/apps/details?id=js.javascript.web.coding.programming.learn.development) - Build your Javascript skills on the go with this amazing free app to learn JavaScript Programming. 
+- [Learn JavaScript](https://play.google.com/store/apps/details?id=js.javascript.web.coding.programming.learn.development) - Build your JavaScript skills on the go with this amazing free app to learn JavaScript Programming. 
 - [Python Programming: Ultimate guide](https://play.google.com/store/apps/details?id=python.programming.coding.python3.development) - Build your python skills on the go with this amazing free app to learn Python Programming. 
 
 
