@@ -65,7 +65,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 - [Shazam: Discover songs & lyrics in seconds](https://play.google.com/store/apps/details?id=com.shazam.android) - Shazam will identify any song in seconds. Discover, artists, lyrics, videos & playlists, all for free.
 - [SoundCloud - Play Music, Audio & New Songs](https://play.google.com/store/apps/details?id=com.soundcloud.android) - SoundCloud is more than a streaming service, it’s an open global community for anyone to upload any sound for immediate discovery.
-- [Musixmatch - Lyrics for your music](https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify) - Musixmatch is the world’s largest collection of song lyrics used by millions of people to get instant time synced lyrics for Youtube, Spotify, Pandora and more.
+- [Musixmatch - Lyrics for your music](https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify) - Musixmatch is the world’s largest collection of song lyrics used by millions of people to get instant time synced lyrics for YouTube, Spotify, Pandora and more.
 - [Genius — Song Lyrics & More](https://play.google.com/store/apps/details?id=com.genius.android) - Genius is the world’s biggest collection of song lyrics and crowdsourced musical knowledge.
 
 
