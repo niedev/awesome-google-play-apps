@@ -168,7 +168,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Squid - Take Notes & Markup PDFs](https://play.google.com/store/apps/details?id=com.steadfastinnovation.android.projectpapyrus) - Take handwritten notes naturally on your Android tablet, phone, or Chromebook supporting Android apps!
 - [vFlat - Your mobile book scanner](https://play.google.com/store/apps/details?id=com.voyagerx.scanner) - vFlat scans your books quickly and beautifully, flattening the curved pages with the help of deep learning.
 - [WorkFlowy - Notes, Lists, Outlines](https://play.google.com/store/apps/details?id=com.workflowy.android) - WorkFlowy is the worlds best tool for taking notes and making lists.
-- XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) - Mind Mapping. 
+- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) - Mind Mapping. 
 - [Orbit Mind](https://play.google.com/store/apps/details?id=com.pseudogames.dachr.mindmap) - Mind Mapping.
 
 
