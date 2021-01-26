@@ -24,9 +24,6 @@ This list has a carefully selected free app. All are carefully selected. All are
   - [Games and Other Things](#games)
   - [Authenticators](#authenticators)
   - [Other](#other)
-- [Contribute](#contribute)
-- [License](#license)
-
 
 
 ## Applications
