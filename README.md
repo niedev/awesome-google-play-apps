@@ -4,8 +4,8 @@
 > Awesome list of the best Goole Play applications for Android.
 This list has a carefully selected free app. All are carefully selected. All are added as a result of experience.
 
-# Contents
 
+## Contents
 - [Apps](#apps)
   - [Note-taking](#note-taking)
   - [Reading](#reading)
