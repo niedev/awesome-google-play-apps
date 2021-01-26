@@ -41,8 +41,8 @@ This list has a carefully selected free app. All are carefully selected. All are
 ### Reading
 
 - [Medium](https://play.google.com/store/apps/details?id=com.medium.reader) - Medium is an open platform where 170 million readers come to find insightful and dynamic thinking. 
-- [Goodreads](https://play.google.com/store/apps/details?id=com.goodreads) - Find, get, and share books you love on Goodreads, the world's largest site for readers and book recommendations. 
-- [Etymonline - English Etymology Dictionary](https://play.google.com/store/apps/details?id=com.etymonline.app) - The official, complete app of Douglas Harper's Online Etymology Dictionary, with useful features to help you understand the origins of words as well as improve your vocabulary. 
+- [Goodreads](https://play.google.com/store/apps/details?id=com.goodreads) - Find, get, and share books you love on Goodreads, the worlds largest site for readers and book recommendations. 
+- [Etymonline - English Etymology Dictionary](https://play.google.com/store/apps/details?id=com.etymonline.app) - The official, complete app of Douglas Harpers Online Etymology Dictionary, with useful features to help you understand the origins of words as well as improve your vocabulary. 
 - [Pocket: Save. Read. Grow.](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro) - Use Pocket to capture the content that comes at you all day long, and curate your own space filled with only the topics you care about.
 - [Flipboard - Latest News, Top Stories & Lifestyle](https://play.google.com/store/apps/details?id=flipboard.app) - Discover quality content for all your interests - from personalized news, entertainment, tech and sports articles to trending lifestyle magazines. 
 
@@ -53,7 +53,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) - Snapseed is a complete and professional photo editor developed by Google.
 - [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens) - Google Lens lets you search what you see, get things done faster, and understand the world around you—using just your camera or a photo.
 - [Canva: Graphic Design, Video Collage, Logo Makerv](https://play.google.com/store/apps/details?id=com.canva.editor) - Canva is a free, versatile graphic design app, Instagram story maker, and video collage creator. 
-- [GIPHY: GIF & Sticker Keyboard & Maker](https://play.google.com/store/apps/details?id=com.giphy.messenger) - The world's largest library of free GIFs, Stickers & memes!
+- [GIPHY: GIF & Sticker Keyboard & Maker](https://play.google.com/store/apps/details?id=com.giphy.messenger) - The worlds largest library of free GIFs, Stickers & memes!
 - [Pexels](https://play.google.com/store/apps/details?id=com.pexels.app) - Browse the best free photos contributed by our talented community of photographers.
 - [Adobe Lightroom - Photo Editor & Pro Camera](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) - Easy image editing tools like sliders and filters for pictures simplify photo editing.
 - [Adobe Premiere Rush — Video Editor](https://play.google.com/store/apps/details?id=com.adobe.premiererush.videoeditor) - Shoot, edit, and share online videos anywhere.
@@ -88,7 +88,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 ### Habits and Routines
 
-- [Forest: Stay focused](https://play.google.com/store/apps/details?id=cc.forestapp) - Can't stop scrolling? Keep off your phone with the cutest focus timer, and unleash your productivity along with 6 million satisfied paying users.
+- [Forest: Stay focused](https://play.google.com/store/apps/details?id=cc.forestapp) - Cant stop scrolling? Keep off your phone with the cutest focus timer, and unleash your productivity along with 6 million satisfied paying users.
 - [everyday | Habit Tracker & Bullet Journal](https://play.google.com/store/apps/details?id=com.everydaycheckmobile) - Simple and beautiful habit tracker: Form new habits to achieve your goals.
 - [Habitica: Gamify Your Tasks](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica) - Treat your life like a game to stay motivated and organized!
 - [Focus To-Do: Pomodoro Timer & To Do List](https://play.google.com/store/apps/details?id=com.superelement.pomodoro) - Focus To-Do combines Pomodoro Timer with Task Management, it is a science-based app that will motivate you to stay focused and get things done.
