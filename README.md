@@ -1,6 +1,5 @@
-# Awesome Google Play Apps
+# Awesome Google Play Apps [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > Awesome list of the best Goole Play applications for Android.
 This list has a carefully selected free app. All are carefully selected. All are added as a result of experience.
