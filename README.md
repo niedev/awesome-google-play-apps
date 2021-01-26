@@ -32,7 +32,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 - [Notion - Notes, Tasks, Wikis](https://play.google.com/store/apps/details?id=notion.id) - Notion is a new editor that blends notes, tasks, wikis in one app. 
 - [Evernote - Notes Organizer & Daily Planner](https://play.google.com/store/apps/details?id=com.evernote) - Capture ideas when inspiration strikes. Find information fast. Share notes with anyone. 
-- [Google Keep - Notes and Lists](https://play.google.com/store/apps/details?id=com.google.android.keep) - Quickly capture what’s on your mind and get a reminder later at the right place or time. 
+- [Google Keep - Notes and Lists](https://play.google.com/store/apps/details?id=com.google.android.keep) - Quickly capture whats on your mind and get a reminder later at the right place or time. 
 - [Microsoft OneNote: Save Ideas and Organize Notes](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote) - Organize your thoughts, discoveries, and ideas and simplify planning important moments in your life with your digital notepad. 
 - [Transno - Outlines, Notes, Mind Map](https://play.google.com/store/apps/details?id=com.transno.app) - Transno is a multi-function app that helps you.
 - [Daylio - Diary, Journal, Mood Tracker](https://play.google.com/store/apps/details?id=net.daylio) - Daylio enables you to keep a private journal without having to type a single line.
