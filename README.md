@@ -203,9 +203,3 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [TeamViewer for Remote Control](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile) - Use this app to remotely control other devices.
 - [Microsoft SwiftKey Keyboard](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey) - Microsoft SwiftKey is the intelligent keyboard that learns your writing style, so you can type faster.
 - [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) - Nova Launcher is a powerful, customizable, and versatile home screen replacement.
-
-
-## Contribute
-
-Contributing guidelines can be found in [CONTRIBUTING.md](CONTRIBUTING.md).
-
