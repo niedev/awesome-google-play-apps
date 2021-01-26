@@ -7,7 +7,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 ## Contents
 - [Applications](#applications)
-  - [Note-taking](#note-taking)
+  - [Note Taking](#note-taking)
   - [Reading](#reading)
   - [Photos and Videos](#photos-and-videos)
   - [Music](#music)
@@ -28,7 +28,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 ## Applications
 
-### Note-taking
+### Note Taking
 
 - [Notion - Notes, Tasks, Wikis](https://play.google.com/store/apps/details?id=notion.id) - Notion is a new editor that blends notes, tasks, wikis in one app. 
 - [Evernote - Notes Organizer & Daily Planner](https://play.google.com/store/apps/details?id=com.evernote) - Capture ideas when inspiration strikes. Find information fast. Share notes with anyone.
@@ -128,7 +128,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 - [IELTS Prep App - takeielts.org](https://play.google.com/store/apps/details?id=com.britishcouncil.ieltsprep) - Prepare for your test with help from British Council, the English language experts.
 - [Learn Languages with Memrise](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion) - Download Memrise and learn.
-- [Duolingo: Learn Languages Free](Duolingo: Learn Languages Free) - Learn a new language with the worlds most-downloaded education app! 
+- [Duolingo: Learn Languages Free](https://play.google.com/store/apps/details?id=com.duolingo&hl=en) - Learn a new language with the worlds most-downloaded education app! 
 - [Rosetta Stone: Learn and Speak New Languages](https://play.google.com/store/apps/details?id=air.com.rosettastone.mobile.CoursePlayer) - Learning features that are literally at your fingertips–any time, anywhere, any device; online or off and completely ad-free.
 - [Busuu: Learn Languages](https://play.google.com/store/apps/details?id=com.busuu.android.enc) - The language learning app.
 - [EWA: Learn English Language](https://play.google.com/store/apps/details?id=com.ewa.ewaapp) - Improve your English skills with EWA!
