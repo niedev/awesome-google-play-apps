@@ -49,7 +49,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 ### Photos and Videos
 
-- [Behance: Photography, Graphic Design, Illustration](https://play.google.com/store/apps/details?id=com.behance.behance) - Use Behance for Android to browse work by the world’s top creative talent wherever you are. 
+- [Behance: Photography, Graphic Design, Illustration](https://play.google.com/store/apps/details?id=com.behance.behance) - Use Behance for Android to browse work by the worlds top creative talent wherever you are. 
 - [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) - Snapseed is a complete and professional photo editor developed by Google.
 - [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens) - Google Lens lets you search what you see, get things done faster, and understand the world around you—using just your camera or a photo.
 - [Canva: Graphic Design, Video Collage, Logo Makerv](https://play.google.com/store/apps/details?id=com.canva.editor) - Canva is a free, versatile graphic design app, Instagram story maker, and video collage creator. 
@@ -64,14 +64,14 @@ This list has a carefully selected free app. All are carefully selected. All are
 ### Music
 
 - [Shazam: Discover songs & lyrics in seconds](https://play.google.com/store/apps/details?id=com.shazam.android) - Shazam will identify any song in seconds. Discover, artists, lyrics, videos & playlists, all for free.
-- [SoundCloud - Play Music, Audio & New Songs](https://play.google.com/store/apps/details?id=com.soundcloud.android) - SoundCloud is more than a streaming service, it’s an open global community for anyone to upload any sound for immediate discovery.
-- [Musixmatch - Lyrics for your music](https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify) - Musixmatch is the world’s largest collection of song lyrics used by millions of people to get instant time synced lyrics for YouTube, Spotify, Pandora and more.
-- [Genius — Song Lyrics & More](https://play.google.com/store/apps/details?id=com.genius.android) - Genius is the world’s biggest collection of song lyrics and crowdsourced musical knowledge.
+- [SoundCloud - Play Music, Audio & New Songs](https://play.google.com/store/apps/details?id=com.soundcloud.android) - SoundCloud is more than a streaming service, its an open global community for anyone to upload any sound for immediate discovery.
+- [Musixmatch - Lyrics for your music](https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify) - Musixmatch is the worlds largest collection of song lyrics used by millions of people to get instant time synced lyrics for YouTube, Spotify, Pandora and more.
+- [Genius — Song Lyrics & More](https://play.google.com/store/apps/details?id=com.genius.android) - Genius is the world's biggest collection of song lyrics and crowdsourced musical knowledge.
 
 
 ### Programming
 
-- [GitHub](https://play.google.com/store/apps/details?id=com.github.android) - There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. 
+- [GitHub](https://play.google.com/store/apps/details?id=com.github.android) - Theres a lot you can do on GitHub that doesnt require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. 
 - [Pydroid 3 - IDE for Python 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) - Pydroid 3 is the most easy to use and powerful educational Python 3 IDE for Android. 
 - [Cxxdroid - C++ compiler IDE for mobile development](https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid) - Cxxdroid is the most easy to use educational C and C++ IDE for Android.
 - [Learn DS & Algo, Programming Interview Preparation](https://play.google.com/store/apps/details?id=free.programming.programming) - GeeksforGeeks is a one-stop destination for programmers.
@@ -121,14 +121,14 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Confluence Cloud](https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core) - Jot down notes, share ideas, and stay notified about whats happening on your team while youre on the go with the Confluence Cloud mobile app. 
 - [Quip: Docs, Chat, Spreadsheets](https://play.google.com/store/apps/details?id=com.quip.quip) - Quip is a simple place for work teams to create living documents.
 - [Miro](https://play.google.com/store/apps/details?id=com.realtimeboard) - The whiteboard for online collaboration.
-- [Jamboard](https://play.google.com/store/apps/details?id=com.google.android.apps.jam) - Jamboard is G Suite’s digital whiteboard that offers a rich collaborative experience for teams and classrooms.
+- [Jamboard](https://play.google.com/store/apps/details?id=com.google.android.apps.jam) - Jamboard is G Suites digital whiteboard that offers a rich collaborative experience for teams and classrooms.
 
 
 ### Learning Language
 
 - [IELTS Prep App - takeielts.org](https://play.google.com/store/apps/details?id=com.britishcouncil.ieltsprep) - Prepare for your test with help from British Council, the English language experts
 - [Learn Languages with Memrise](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion) - Download Memrise and learn.
-- [Duolingo: Learn Languages Free](Duolingo: Learn Languages Free) - Learn a new language with the world’s most-downloaded education app! 
+- [Duolingo: Learn Languages Free](Duolingo: Learn Languages Free) - Learn a new language with the worlds most-downloaded education app! 
 - [Rosetta Stone: Learn and Speak New Languages](https://play.google.com/store/apps/details?id=air.com.rosettastone.mobile.CoursePlayer) - Learning features that are literally at your fingertips–any time, anywhere, any device; online or off and completely ad-free.
 - [Busuu: Learn Languages](https://play.google.com/store/apps/details?id=com.busuu.android.enc) - The language learning app.
 - [EWA: Learn English Language](https://play.google.com/store/apps/details?id=com.ewa.ewaapp) - Improve your English skills with EWA!
@@ -183,7 +183,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 ### Games and Other Things
 
-- [Lumosity: Brain Training](https://play.google.com/store/apps/details?id=com.lumoslabs.lumosity) - Lumosity’s cognitive training program is a fun, interactive way to train your brain and learn about how your mind works.
+- [Lumosity: Brain Training](https://play.google.com/store/apps/details?id=com.lumoslabs.lumosity) - Lumositys cognitive training program is a fun, interactive way to train your brain and learn about how your mind works.
 - [Stack](https://play.google.com/store/apps/details?id=com.ketchapp.stack) - Stack up the blocks as high as you can!
 - [lichess • Free Online Chess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp) - Built for the love of chess, this app is open source and free for all.
 - [Exponential Idle](https://play.google.com/store/apps/details?id=com.conicgames.exponentialidle) - Play Exponential Idle, a math-inspired incremental game.
