@@ -108,7 +108,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) - Pure instant messaging — simple, fast, secure, and synced across all your devices.
 - [Discord - Talk, Video Chat & Hang Out with Friends](https://play.google.com/store/apps/details?id=com.discord) - Discord is your place to talk. Create a home for your communities and friends, where you can stay close and have fun over text, voice, and video.
 - [Signal Private Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) - Millions of people use Signal every day for free and instantaneous communication anywhere in the world.
-- [ZOOM Cloud Meetings](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) - Stay connected wherever you go – start or join a secure meeting with flawless video and audio..
+- [ZOOM Cloud Meetings](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) - Stay connected wherever you go – start or join a secure meeting with flawless video and audio.
 
 
 ### Team Productivity
@@ -205,13 +205,11 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) - Nova Launcher is a powerful, customizable, and versatile home screen replacement.
 
 
-**[⬆ back to top ⬆](#apps)**
 ## Contribute
 
 Contributing guidelines can be found in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
-**[⬆ back to top ⬆](#apps)**
 ## License
 
 This work is licensed under a [Creative Commons Zero v1.0 Universal](LICENSE.md).
