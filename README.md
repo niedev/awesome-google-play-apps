@@ -209,7 +209,3 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 Contributing guidelines can be found in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-
-## License
-
-This work is licensed under a [Creative Commons Zero v1.0 Universal](LICENSE.md).
