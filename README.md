@@ -9,10 +9,10 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Apps](#apps)
   - [Note-taking](#note-taking)
   - [Reading](#reading)
-  - [Photos and Videos](#photos-videos)
+  - [Photos and Videos](#photos-and-videos)
   - [Music](#music)
   - [Programming](#programming)
-  - [Habits and Routines](#habits)
+  - [Habits and Routines](#habits-and-routines)
   - [Courses](#courses)
   - [Communication](#communication)
   - [Team Productivity](#team-productivity)
@@ -21,7 +21,7 @@ This list has a carefully selected free app. All are carefully selected. All are
   - [Browsers](#browsers)
   - [Productivity](#productivity)
   - [Online Storage](#online-storage)
-  - [Games and Other Things](#games)
+  - [Games and Other Things](#games-and-other-things)
   - [Authenticators](#authenticators)
   - [Other](#other)
 
@@ -155,7 +155,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 - [Brave Private Browser: Fast, secure web browser](https://play.google.com/store/apps/details?id=com.brave.browser) - The Brave Private Browser App is your fast, free, and safe private web browser with ad blocker and pop-up blocker.
 
 
-### Productivity Tools
+### Productivity
 
 - [Mind Map & Concept Map Maker - Mindomo](https://play.google.com/store/apps/details?id=air.com.EXswap.Mindomo) - Unleash the power of your ideas with mind mapping and concept mapping.
 - [Lucidchart - Flowchart, Diagram & Visio Viewer](https://play.google.com/store/apps/details?id=com.lucidchart.android.chart) - Lucidchart is the easiest way to build and view diagrams on your Android device.
