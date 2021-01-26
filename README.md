@@ -6,7 +6,7 @@ This list has a carefully selected free app. All are carefully selected. All are
 
 
 ## Contents
-- [Apps](#apps)
+- [Applications](#applications)
   - [Note-taking](#note-taking)
   - [Reading](#reading)
   - [Photos and Videos](#photos-and-videos)
