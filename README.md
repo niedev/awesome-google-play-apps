@@ -80,6 +80,7 @@
 - [Discord - Talk, Video Chat & Hang Out with Friends](https://play.google.com/store/apps/details?id=com.discord) - Discord is your place to talk. Create a home for your communities and friends, where you can stay close and have fun over text, voice, and video.
 - [Signal Private Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) - Millions of people use Signal every day for free and instantaneous communication anywhere in the world.
 - [ZOOM Cloud Meetings](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) - Stay connected wherever you go – start or join a secure meeting with flawless video and audio.
+- [RTranslator](https://play.google.com/store/apps/details?id=nie.translator.rtranslatordevedition) - World's first open-source simultaneous translation app. 
 ### Team Productivity
 - [Slack](https://play.google.com/store/apps/details?id=com.Slack) - Slack brings team communication and collaboration into one place so you can get more work done, whether you belong to a large enterprise or a small business.
 - [Microsoft Teams](https://play.google.com/store/apps/details?id=com.microsoft.teams) - Microsoft Teams is your hub for teamwork.
